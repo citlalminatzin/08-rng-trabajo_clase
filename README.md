@@ -25,5 +25,8 @@ Las probabilidades de elegir cada caja son:
 
 -Caja con el pescado 1/3
 
-Elegir alguna de las cajas nos da 1/3 de probabilidad de ganar, sin embargo, al decidir cambiar de elección, estamos tomadno 2/3 de probabilidad de elegir la caja ganadora. Por la que
+Elegir alguna de las cajas nos da 1/3 de probabilidad de ganar, sin embargo, al decidir cambiar de elección, estamos tomadno 2/3 de probabilidad de elegir la caja ganadora.
+También esta la otra probabiliad de elegir la caja ganadora y no cambiar en primer instancia, pero la probabilidad es de 1/3.
+
+ Por lo que la mejor opción es que el gato decida cambiar de caja para que el gato tenga más oportunidad de ganar.
 
