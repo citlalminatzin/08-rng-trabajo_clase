@@ -17,5 +17,13 @@ selección?
 
 Este problema de probabilidad está planteado de la siguiente manera:
 
-Hay un tercio de probabilidad por cada elección:
+Las probabilidades de elegir cada caja son:
+
+-Caja con un pepino 1/3
+
+-Caja con un pepino 1/3
+
+-Caja con el pescado 1/3
+
+Elegir alguna de las cajas nos da 1/3 de probabilidad de ganar, sin embargo, al decidir cambiar de elección, estamos tomadno 2/3 de probabilidad de elegir la caja ganadora. Por la que
 
