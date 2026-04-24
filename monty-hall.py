@@ -44,5 +44,5 @@ def main():
     print(f"{success_change=} {success_stay=}")
 
 
-if "__name__" == "__main__":
+if __name__ == "__main__":
     main()
